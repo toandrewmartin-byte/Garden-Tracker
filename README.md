@@ -1,6 +1,6 @@
 # Patio Garden: setup
 
-A pastel watering-schedule app for the patio. Tap a droplet when you water, and both phones see it.
+A pastel watering-schedule app for the patio. Tap a droplet when you water, and both phones see it. 
 
 **Files (all go in the same folder / repo):**
 `index.html`, `firebase-config.js`, `manifest.webmanifest`, `sw.js`, `icon.svg`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`
