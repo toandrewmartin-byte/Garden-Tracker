@@ -1,5 +1,5 @@
 // Keeps the app opening quickly and lets it start without a connection.
-const CACHE = 'patio-garden-v1';
+const CACHE = 'patio-garden-v2';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg'];
 
 self.addEventListener('install', e => {
